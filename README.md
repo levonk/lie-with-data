@@ -5,7 +5,9 @@ There are many techniques to misinform people, sometimes intentional sometimes n
 
 ## Lie with Statistics
 
+* [Anscombe's Quartet](#anscombes-quartet) 
 * [Selection Bias](#selection-bias) 
+* [Simpson's Paradox](#simpsons-paradox) 
 
 ## Lie with Visualizations
 
@@ -22,7 +24,18 @@ There are many techniques to misinform people, sometimes intentional sometimes n
 
 ## Lie with Statistics
 
+### Anscombe's Quartet
+
+https://en.wikipedia.org/wiki/Anscombe%27s_quartet
+
 ### Selection Bias
+
+https://en.wikipedia.org/wiki/Selection_bias
+
+### Simpson's Paradox
+
+https://en.wikipedia.org/wiki/Simpson%27s_paradox
+
 
 ## Lie with Visualizations
 
